@@ -91,12 +91,13 @@ print  """
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
 print '\x1b[1;93m    Dalkhor Facebook Account Cloner'
-print\033[1;92m>> AUTHOR : BIKI HACKER
-print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-print\033[1;92m>> GITHUB : BikiCyber404
-print\033[1;92m-----------------------------------------------"""
+print'\033[1;92m-----------------------------------------------'
+print'\033[1;92m>> AUTHOR : BIKI HACKER'
+print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+print'\033[1;92m>> GITHUB : BikiCyber404'
 time.sleep(0.05)    
+print'\033[1;92m-----------------------------------------------"""
 print'                                        '
 jalan("\x1b[1;92mINPUT USERNAME & PASSWORD")
 print 25* '\033[1;96m-'
@@ -151,11 +152,13 @@ def login():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print\033[1;92m>> AUTHOR : BIKI HACKER
-    print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-    print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-    print\033[1;92m>> GITHUB : BikiCyber404
-    print\033[1;92m-----------------------------------------------"""
+    print'\033[1;92m-----------------------------------------------'
+    print'\033[1;92m>> AUTHOR : BIKI HACKER'
+    print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+    print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+    print'\033[1;92m>> GITHUB : BikiCyber404'
+    time.sleep(0.05)    
+    print'\033[1;92m-----------------------------------------------"""
     print '                             '          
     
     jalan("\033[1;93m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m 7 DIGIT CRACKER")
@@ -236,11 +239,13 @@ def Zeek():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-    print\033[1;92m>> AUTHOR : BIKI HACKER
-    print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-    print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-    print\033[1;92m>> GITHUB : BikiCyber404
-    print\033[1;92m-----------------------------------------------"""
+    print'\033[1;92m-----------------------------------------------'
+    print'\033[1;92m>> AUTHOR : BIKI HACKER'
+    print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+    print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+    print'\033[1;92m>> GITHUB : BikiCyber404'
+    time.sleep(0.05)    
+    print'\033[1;92m-----------------------------------------------"""
     print '                                        '
     
     print '\x1b[1;91m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m Jazz'
@@ -275,11 +280,13 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        print\033[1;92m>> AUTHOR : BIKI HACKER
-        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-        print\033[1;92m>> GITHUB : BikiCyber404
-        print\033[1;92m-----------------------------------------------"""
+        print'\033[1;92m-----------------------------------------------'
+        print'\033[1;92m>> AUTHOR : BIKI HACKER'
+        print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+        print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+        print'\033[1;92m>> GITHUB : BikiCyber404'
+        time.sleep(0.05)    
+        print'\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -308,11 +315,13 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        print\033[1;92m>> AUTHOR : BIKI HACKER
-        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-        print\033[1;92m>> GITHUB : BikiCyber404
-        print\033[1;92m-----------------------------------------------"""
+        print'\033[1;92m-----------------------------------------------'
+        print'\033[1;92m>> AUTHOR : BIKI HACKER'
+        print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+        print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+        print'\033[1;92m>> GITHUB : BikiCyber404'
+        time.sleep(0.05)    
+        print'\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -339,11 +348,13 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        print\033[1;92m>> AUTHOR : BIKI HACKER
-        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-        print\033[1;92m>> GITHUB : BikiCyber404
-        print\033[1;92m-----------------------------------------------"""
+        print'\033[1;92m-----------------------------------------------'
+        print'\033[1;92m>> AUTHOR : BIKI HACKER'
+        print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+        print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+        print'\033[1;92m>> GITHUB : BikiCyber404'
+        time.sleep(0.05)    
+        print'\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -371,11 +382,13 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        print\033[1;92m>> AUTHOR : BIKI HACKER
-        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-        print\033[1;92m>> GITHUB : BikiCyber404
-        print\033[1;92m-----------------------------------------------"""
+        print'\033[1;92m-----------------------------------------------'
+        print'\033[1;92m>> AUTHOR : BIKI HACKER'
+        print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+        print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+        print'\033[1;92m>> GITHUB : BikiCyber404'
+        time.sleep(0.05)    
+        print'\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -402,10 +415,12 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        print\033[1;92m>> AUTHOR : BIKI HACKER
-        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-        print\033[1;92m>> GITHUB : BikiCyber404
+        print'\033[1;92m-----------------------------------------------'
+        print'\033[1;92m>> AUTHOR : BIKI HACKER'
+        print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+        print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+        print'\033[1;92m>> GITHUB : BikiCyber404'
+        time.sleep(0.05)    
         print\033[1;92m-----------------------------------------------"""
         print '                                        '  
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
@@ -447,11 +462,13 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-    print\033[1;92m>> AUTHOR : BIKI HACKER
-    print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
-    print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
-    print\033[1;92m>> GITHUB : BikiCyber404
-    print\033[1;92m-----------------------------------------------"""
+    print'\033[1;92m-----------------------------------------------'
+    print'\033[1;92m>> AUTHOR : BIKI HACKER'
+    print'\033[1;92m>> FACEBOOK : BIKI MAHMOOD'
+    print'\033[1;92m>> YOUTUBE : BIKI MAHMOOD'
+    print'\033[1;92m>> GITHUB : BikiCyber404'
+    time.sleep(0.05)    
+    print'\033[1;92m-----------------------------------------------"""
     print'                       '
     print'                       '
     jalan ('  \x1b[1;91m[\x1b[1;93m✓\x1b[1;91m]\033[1;92m Total ids number: '+xxx)
